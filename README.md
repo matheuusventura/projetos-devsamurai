@@ -5,8 +5,8 @@
 
 <h1>Gerador de senha</h1>
 <p float="left">
-  <img src="/imgs/pag1.png" height="400px">
-  <img src="/imgs/pag2.png" height="400px">
+  <img src="/imgs/pag1.png" height="300px">
+  <img src="/imgs/pag2.png" height="300px">
 </p>
 <p>Este projeto fiz exatamente como do curso. Os usuários podem personalizar o comprimento e os tipos de caracteres da senha, proporcionando flexibilidade na geração de senhas conforme suas necessidades.</p>
 
